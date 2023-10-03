@@ -1,0 +1,27 @@
+[
+    {
+        "title":"Suit",
+        "price":"500",
+        "category":"cloths"
+    },
+    {
+        "title":"Lower",
+        "price":"350",
+        "category":"cloths"
+    },
+    {
+        "title":"kurti",
+        "price":"600",
+        "category":"cloths"
+    },
+    {
+        "title":"Mobile",
+        "price":"50000",
+        "category":"electronics"
+    },
+    {
+        "title":"laptop",
+        "price":"60000",
+        "category":"electronics"
+    }
+]

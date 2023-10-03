@@ -1,0 +1,23 @@
+[
+    {
+        "category":"food",
+        "title":"Chicken",
+        "price":"250/-"
+    },
+    {
+        "category":"food",
+        "title":"Pizza",
+        "price":"200/-"
+    },
+    {
+        "category":"others",
+        "title":"coca cola",
+        "price":"90/-"
+    },
+    {
+        "category":"others",
+        "title":"Sweet",
+        "price":"100/-"
+    }
+  
+]
