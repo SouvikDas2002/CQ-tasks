@@ -14,7 +14,16 @@ const server=http.createServer((req,res)=>{
             res.write(data);
             res.end();
         })
-    }else{
+        
+    }
+    else if(req.url==='/task.jpg'){
+        fs.readFile('./task.png',(err,data)=>{
+            // console.log(data);
+            res.write(data);
+            res.end();
+        })
+    }
+    else{
         res.statusCode=404;
         res.end();
     }
